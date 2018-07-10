@@ -5,6 +5,5 @@ public enum Command {
     CMD_WALL,
     CMD_EXIT,
     CDM_UNKNOWN,
-    CMD_UNNECESSARY,
-    CMD_UNBELIEVABLE
+    CMD_UNNECESSARY
 }
